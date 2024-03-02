@@ -1,0 +1,2 @@
+# TYPESCRIPT-ASSIGNMET-01
+ Typescript-code
