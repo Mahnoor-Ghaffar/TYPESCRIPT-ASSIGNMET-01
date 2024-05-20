@@ -1,14 +1,15 @@
+"use strict";
 //Qno23
-var color = "pink";
-var language = "English";
-var number = 9;
+let color = "pink";
+let language = "English";
+let number = 9;
 if (color === "pink") {
     console.log(true);
 }
 if (language === "English") {
     console.log(true);
 }
-if (number = 9) {
+if (number == 9) {
     console.log(true);
 }
 else {

@@ -8,7 +8,7 @@ if(color==="pink"){
 if(language==="English"){
 console.log(true);
 }
-if(number=9){
+if(number==9){
     console.log(true)
 }
 else{
