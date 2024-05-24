@@ -4,7 +4,7 @@
 
 function show_magicians(magicians : string[]) :void {
     for (let magician of magicians) {
-        console.log(magician.charAt(0) + magician.slice(1));
+        console.log(magician);
     }
 }
 let magician : string[] = ["Woody Allen","Jerry Lewis","Vincent Price"];
